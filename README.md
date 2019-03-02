@@ -1,4 +1,8 @@
-# demo
+# amap-vue-plugin
+
+## 这是一个基于vue开发高德地图插件。
+### 可以在src/plugins/amap/components下查看各组件的使用参数（后期应该会逐渐完善）
+参考自vue-google-maps
 
 ## Project setup
 ```
